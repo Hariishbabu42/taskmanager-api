@@ -38,3 +38,21 @@
 2024-12-28 12:12:05,406 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
 2024-12-28 12:12:19,310 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
 2024-12-28 12:12:30,932 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:21:58,329 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:22:30,286 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:22:30,416 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: POST http://testserver/tasks/create_task/ "HTTP/1.1 307 Temporary Redirect"
+2024-12-28 12:22:30,508 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:33 - Task created successfully
+2024-12-28 12:22:30,512 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: POST http://testserver/tasks/create_task "HTTP/1.1 200 OK"
+2024-12-28 12:25:14,740 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:25:14,870 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: POST http://testserver/tasks/create_task/ "HTTP/1.1 307 Temporary Redirect"
+2024-12-28 12:25:14,957 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:33 - Task created successfully
+2024-12-28 12:25:14,960 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: POST http://testserver/tasks/create_task "HTTP/1.1 200 OK"
+2024-12-28 12:25:39,044 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:26:05,667 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:26:05,863 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:106 updated successfully
+2024-12-28 12:26:05,866 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: PUT http://testserver/tasks/update_task/106 "HTTP/1.1 200 OK"
+2024-12-28 12:26:59,657 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:27:16,777 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:27:16,980 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: GET http://testserver/tasks/106 "HTTP/1.1 200 OK"
+2024-12-28 12:28:28,437 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:28:50,003 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:33 - Task created successfully

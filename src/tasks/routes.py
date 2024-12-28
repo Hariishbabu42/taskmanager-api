@@ -24,7 +24,7 @@ async def create_task(task_data: TaskCreate, db: AsyncSession = Depends(get_db))
     try:
         maximum_id = await db_operations.get_max_task_id(db)
         new_id = (maximum_id + 1) if maximum_id else 1
-        task_data_dict = task_data.dict()
+        task_data_dict = task_data.model_dump()
         task_data_dict['id'] = new_id
         task = await db_operations.create_task(db, task_data_dict)
         if not task:
@@ -99,5 +99,5 @@ async def delete_task(task_id : int, db: AsyncSession = Depends(get_db)):
         logger.info(f"Task with task_id:{task_id} deleted successfully")
         return task
     except Exception as e:
-        logger.exception("An unexpected error occurred while creating a task")
+        logger.exception("An unexpected error occurred while deleting a task")
         raise HTTPException(status_code=500, detail="Internal Server Error")

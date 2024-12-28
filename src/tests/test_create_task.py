@@ -16,14 +16,14 @@ client = TestClient(app)
 @pytest.fixture
 def test_data():
     return {
-    "title": "abc",
-    "description": "def",
-    "completed": True
+    "title": "Fastapi Project",
+    "description": "Project based on fastapi",
+    "completed": False
     }
 
 def test_create_user(test_data):
     """Test creating a new user."""
-    response = client.post("/tasks/create_task/", json=test_data)  # Replace "/users/" with your actual endpoint
+    response = client.post("/tasks/create_task/", json=test_data)  
     assert response.status_code == 200
     assert response.json()["title"] == test_data["title"]
 

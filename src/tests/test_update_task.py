@@ -16,13 +16,13 @@ client = TestClient(app)
 
 @pytest.fixture
 def task_id()-> int:
-    return int(100)
+    return int(106)
 
 @pytest.fixture
 def test_data():
     return {
-    "title": "homework",
-    "description": "homework done",
+    "title": "Fastapi Project",
+    "description": "Project based on fastapi",
     "completed": True
     }
 

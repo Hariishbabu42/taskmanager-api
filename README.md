@@ -1,7 +1,7 @@
 """
 # Task Manager API
 
-This is a FastAPI-based project that allows you to manage tasks. It provides endpoints to create, read, update, and delete tasks. The application is configured using `uvicorn_config.py` and can be started using the `start.py` script.
+This is a FastAPI-based project that allows you to manage tasks. It provides endpoints to create, read, update, and delete tasks. The application is configured using `uvicorn_config.py` and can be started using the `start.py` script. Before running the start.py make sure the database url is given in `.env` file.
 
 ## Project Structure
 

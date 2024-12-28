@@ -1,6 +1,5 @@
 import os
 
-# Default configurations
 HOST = os.getenv("HOST", "127.0.0.1")  # The host to bind to
 PORT = int(os.getenv("PORT", 9000))  # The port to run the app
 WORKERS = int(os.getenv("WORKERS", 4))  # Number of worker processes
