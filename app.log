@@ -1,0 +1,40 @@
+2024-12-28 10:39:12,244 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:39:56,284 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:40:27,857 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:41:50,240 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:41:50,437 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:100 updated successfully
+2024-12-28 10:41:50,440 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: PUT http://testserver/tasks/update_task/100 "HTTP/1.1 200 OK"
+2024-12-28 10:49:05,391 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:49:49,798 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:50:02,782 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:50:02,976 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:100 updated successfully
+2024-12-28 10:50:02,978 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: PUT http://testserver/tasks/update_task/100 "HTTP/1.1 200 OK"
+2024-12-28 10:52:34,589 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:52:34,784 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:100 updated successfully
+2024-12-28 10:52:34,786 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: PUT http://testserver/tasks/update_task/100 "HTTP/1.1 200 OK"
+2024-12-28 10:53:03,189 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:55:02,455 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:55:02,662 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:100 updated successfully
+2024-12-28 10:55:02,665 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: PUT http://testserver/tasks/update_task/100 "HTTP/1.1 200 OK"
+2024-12-28 10:58:08,484 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:58:08,688 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:100 updated successfully
+2024-12-28 10:58:08,691 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: PUT http://testserver/tasks/update_task/100 "HTTP/1.1 200 OK"
+2024-12-28 10:59:12,192 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 10:59:12,393 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:100 updated successfully
+2024-12-28 10:59:12,397 - httpx - INFO - C:\Users\wellspring systems\AppData\Local\Programs\Python\Python311\Lib\site-packages\httpx\_client.py:1025 - HTTP Request: PUT http://testserver/tasks/update_task/100 "HTTP/1.1 200 OK"
+2024-12-28 10:59:39,890 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 11:00:36,344 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:33 - Task created successfully
+2024-12-28 11:02:38,471 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:102 updated successfully
+2024-12-28 11:03:09,324 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:85 - Task with task_id:102 updated successfully
+2024-12-28 11:03:46,419 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:99 - Task with task_id:101 deleted successfully
+2024-12-28 11:05:20,384 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:33 - Task created successfully
+2024-12-28 11:07:04,578 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 11:59:03,368 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:00:49,174 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:33 - Task created successfully
+2024-12-28 12:05:09,608 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:71 - Task with task_id:103 updated successfully
+2024-12-28 12:05:42,414 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:85 - Task with task_id:104 updated successfully
+2024-12-28 12:07:26,490 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:99 - Task with task_id:100 deleted successfully
+2024-12-28 12:07:40,355 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\tasks\routes.py:99 - Task with task_id:99 deleted successfully
+2024-12-28 12:12:05,406 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:12:19,310 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
+2024-12-28 12:12:30,932 - TaskManager - INFO - C:\Users\wellspring systems\Documents\taskmanager-api\src\core\logging.py:39 - Logging has been configured.
